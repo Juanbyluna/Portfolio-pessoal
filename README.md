@@ -1,3 +1,11 @@
+[Projeto de potifólio pessoal]()
+[Descrição]()
+[Introdução]()
+[Funcionalidades]()
+[Tecologias utilizadas]()
+[Fontes consultadas]()
+[Autores]()
+
 # Portfolio-pessoal
 
 Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do bootstrap
@@ -8,3 +16,8 @@ Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do
 
 ## Funcionalidades
 
+### Tecologias utilizadas
+
+## Fontes consultadas
+
+## Autores
