@@ -1,10 +1,10 @@
-[Projeto de potifólio pessoal](#Projeto-de-portifolio-pessoal)
-[Descrição](#descrição)
-[Introdução](#introdução)
-[Funcionalidades](#funcionalidades)
-[Tecologias utilizadas](#tecologias-utilizadas)
-[Fontes consultadas](#fontes-consultadas)
-[Autores](#autores)
+[Projeto de potifólio pessoal](#Projeto-de-portifolio-pessoal)  
+[Descrição](#descrição)  
+[Introdução](#introdução)  
+[Funcionalidades](#funcionalidades)  
+[Tecologias utilizadas](#tecologias-utilizadas)  
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 # Portfolio-pessoal
 
