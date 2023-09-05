@@ -8,6 +8,3 @@ Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do
 
 ## Funcionalidades
 
-#### Tecnologias utilizadas
-
-## Fontes utilizadas
