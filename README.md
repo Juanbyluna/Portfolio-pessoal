@@ -6,20 +6,20 @@
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)  
 
-# Portfolio-pessoal
+# 📖Portfolio-pessoal
 
 Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do bootstrap
-#### Capa do projeto
+#### 💻Capa do projeto
 ![Capa do projeto](img/capa.png)
 
-## Descrição 
+## 📄Descrição 
 
-## Introdução
+## ✔️Introdução
 
-## Funcionalidades
+## 👾Funcionalidades
 
-### Tecologias utilizadas
+### 🤖Tecologias utilizadas
 
-## Fontes consultadas
+## 🔗Fontes consultadas
 
-## Autores
+## ✒️Autores
