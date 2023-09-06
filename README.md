@@ -8,7 +8,7 @@
 
 # 📖Portfolio-pessoal
 
-Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do bootstrap
+Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
 #### 💻Capa do projeto
 ![Capa do projeto](img/capa.png)
 
@@ -19,7 +19,13 @@ Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do
 ## 👾Funcionalidades
 
 ### 🤖Tecologias utilizadas
-
+* HTML5
+* CSS
+* VsCode (Visual Code)
+* Bootstrap
+* GitHub
 ## 🔗Fontes consultadas
 
 ## ✒️Autores
+
+## Colaboradores
