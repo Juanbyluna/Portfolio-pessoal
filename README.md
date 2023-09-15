@@ -18,7 +18,7 @@ Este projeto possui locais sem ação e sem temas especificos. Como ele foi reti
 
 ## ✔️Introdução
 retirado da plataforma do Bootstrap, este não possui nada alem de um texto na tela inicial e outras coisas como acesso para outra janela
-=======
+
 ## ✔️Introdução
 Este projeto esta "vazio" em questão de caracteristicas e funcionalidades e o motivo deste E por que ele foi retirado do Bootstrap.
 
@@ -27,7 +27,7 @@ Este projeto está "vazio" em questão de caracteristicas e funcionalidades e o 
 
 ##### 🤨Quem é bootstrap??
 Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.
->>>>>>> 5e448d3a173cc155fd190685b276d72ea8b14c38
+
 
 ## 👾Funcionalidades
 * Características
