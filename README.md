@@ -1,3 +1,7 @@
+# 📖Portfolio-pessoal
+
+Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
+
 * [Projeto de potifólio pessoal](#Projeto-de-portifolio-pessoal)
 * [Introdução](#introdução)  
 * [Descrição](#descrição)    
@@ -6,9 +10,6 @@
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)  
 
-# 📖Portfolio-pessoal
-
-Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
 #### 💻Capa do projeto
 ![Capa do projeto](img/capa.png)
 
@@ -29,10 +30,10 @@ Bootstrap é um framework front-end que fornece estruturas de CSS para a criaç�
 * Características
 * Casa
 * Contato 
-(N E N H U M      P O S S U I       A Ç Ã O)  
-### 🤖Tecologias utilizadas
+## 🤖Tecologias utilizadas
 * HTML5
 * CSS
+## 🔧Ferramentas utilizadas
 * VsCode (Visual Code)
 * Bootstrap
 * GitHub
@@ -40,7 +41,8 @@ Bootstrap é um framework front-end que fornece estruturas de CSS para a criaç�
 * Google 
 * Chat Gpt
 
+## 🤜🤛Colaboradores
+Leonardo Santiago Sidon da Rocha
+
 ## ✒️Autores
 Juan Fernandes Goes de Souza
-## Colaboradores
-Leonardo Santiago Sidon da Rocha
