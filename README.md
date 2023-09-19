@@ -19,7 +19,7 @@ Este projeto possui locais sem ação e sem temas especificos. Como ele foi reti
 ## ✔️Introdução
 retirado da plataforma do Bootstrap, este não possui nada alem de um texto na tela inicial e outras coisas como acesso para outra janela
 
-## 📄Descrição 
+## 📄Descrição
 Este projeto está "vazio" em questão de caracteristicas e funcionalidades e o motivo deste é por que ele foi retirado do Bootstrap.
 
 ##### 🤨Quem é bootstrap??
