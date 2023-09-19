@@ -30,7 +30,7 @@ Bootstrap é um framework front-end que fornece estruturas de CSS para a criaç�
 * Casa
 * Contato 
 (!N E N H U M   P O S S U I   A Ç Ã O!)
-![Como usar](Como_usar.mp4)
+![Como usar]()
 ### 🤖Tecologias utilizadas
 * HTML5
 * CSS
