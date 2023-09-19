@@ -22,7 +22,7 @@ retirado da plataforma do Bootstrap, este não possui nada alem de um texto na t
 ## 📄Descrição
 Este projeto está "vazio" em questão de caracteristicas e funcionalidades e o motivo deste é por que ele foi retirado do Bootstrap.
 
-##### 🤨Quem é bootstrap??
+#### 🤨Quem é bootstrap??
 Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.
 
 
