@@ -41,6 +41,7 @@ Bootstrap é um framework front-end que fornece estruturas de CSS para a criaç�
 ## 🔗Fontes consultadas
 * Google 
 * Chat Gpt
+* https://www.alura.com.br/
 
 ## 🤜🤛Colaboradores
 Leonardo Santiago Sidon da Rocha
